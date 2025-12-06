@@ -1,0 +1,1 @@
+The Encrypted Cloud-Based Data Backup project securely stores files by encrypting them locally using AES-256 before uploading to cloud storage. Users log in via a simple interface, upload encrypted files, and later retrieve and decrypt them. Keys are kept locally, ensuring privacy and end-to-end security.
